@@ -1,4 +1,4 @@
-# cea-cdcpfl (PyTorch)
+# cea-cdcpfl
 
 
 ## Requirments
