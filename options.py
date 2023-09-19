@@ -11,8 +11,8 @@ def args_parser():
 
     parser.add_argument('--epochs', type=int, default=10,
                         help="number of rounds of training")
-    parser.add_argument('--num_orgnization', type=int, default=5,
-                        help="number of users: K")
+    parser.add_argument('--num_org', type=int, default=5,
+                        help="number of users: K")  #org indicate the virtual cluster node
     parser.add_argument('--num_each_org_user', type=str, default=[20]*5,
                         help="number of users: K")
 
