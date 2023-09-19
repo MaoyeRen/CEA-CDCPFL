@@ -1,5 +1,5 @@
 # CEA-CDCPFL
-
+Official code for paper: Personalized federated learning: A Clustered Distributed Co-Meta-Learning approach.
 
 ## Requirments
 * Python3
@@ -20,6 +20,10 @@ python main.py --gpu=None
 ```
 python main.py --gpu=0
 ```
+
+#pre-step
+1. First use any of the federated cluster methods to get the clusters of clents
+2. Second write the code to input the clusters of the clents to cluster nodes, in sampling.py   
 
 ## Running the experiments
 
