@@ -29,4 +29,4 @@ python main.py --model=vgg11 --dataset=miniimagenet --gpu=0 --orgiid=0 --useriid
 ```
 ## pre-step of using other data
 1. Firstly using any of the federated cluster methods to get the clusters of clents
-2. Secondly writing the code to input the clusters of the clents to virtual cluster nodes, in sampling.py   
+2. Secondly writing the code to input the clusters of the clents to virtual cluster nodes, in sampling.py    
