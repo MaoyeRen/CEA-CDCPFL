@@ -1,5 +1,5 @@
 # Personalized federated learning: A Clustered Distributed Co-Meta-Learning approach
-Official code for paper: 
+Official code for the manuscript:
 
 Personalized federated learning: A Clustered Distributed Co-Meta-Learning approach
 
