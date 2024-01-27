@@ -1,5 +1,7 @@
 # CEA-CDCPFL (CDC-PFL)
-Official code for paper: Personalized federated learning: A Clustered Distributed Co Meta Learning approach.
+Official code for paper: 
+Personalized federated learning: A Clustered Distributed Co-Meta-Learning approach
+
 
 ## Requirments
 * Python3
