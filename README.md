@@ -36,7 +36,7 @@ python main.py --model=vgg11 --dataset=miniimagenet --gpu=0 --cvniid=0 --useriid
 
   ## Cite
   If you find our code useful for your research and applications, please cite us using this BibTeX:
-  
+  ```bibtex
   @article{ren2023personalized,
   title={Personalized federated learning: A Clustered Distributed Co-Meta-Learning approach},
   author={Ren, Maoye and Wang, Zhe and Yu, Xinhai},
@@ -46,3 +46,4 @@ python main.py --model=vgg11 --dataset=miniimagenet --gpu=0 --cvniid=0 --useriid
   year={2023},
   publisher={Elsevier}
 }
+```
